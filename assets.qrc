@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>3dModels/XBot/Xbot_silly_dancing.qml</file>
+        <file>3dModels/XBot/meshes/beta_Joints.mesh</file>
+        <file>3dModels/XBot/meshes/beta_Surface.mesh</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftToeBase_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_Neck_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_Hips_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_Hips_position.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightToeBase_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightUpLeg_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightArm_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftLeg_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightFoot_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftShoulder_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightShoulder_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftHand_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftUpLeg_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_Spine_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftFoot_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightForeArm_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightLeg_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_RightHand_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_Head_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftArm_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_LeftForeArm_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_Spine2_rotation.qad</file>
+        <file>3dModels/XBot/animations/mixamorig_Spine1_rotation.qad</file>
+    </qresource>
+</RCC>
